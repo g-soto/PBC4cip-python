@@ -1,0 +1,5 @@
+## Cache
+__pycache__/
+.vscode/
+venv/
+weka-3-8-4
