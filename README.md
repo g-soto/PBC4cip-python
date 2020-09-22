@@ -1,6 +1,6 @@
-# PCB4cip-python
+# PBC4cip-python
 
-Usage of the weka implementation of PCB4cip from python.
+Usage of the weka implementation of PBC4cip from python.
 
 Paper:
 
